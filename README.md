@@ -30,7 +30,7 @@ It uses Firebase FireStore as Database and Firebase Storage.
 
 ## Screenshots
 
-
+![Screenshot_1](https://github.com/youssef0405/E-school/assets/78429621/c5def387-4460-46e6-9f66-63b1defd613c)
 
 Database structure snapshot are [here](https://github.com/ketanchoyal/Academic-Connect/raw/master/DB%20Structure).
 
